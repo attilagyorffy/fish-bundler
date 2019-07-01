@@ -10,7 +10,7 @@ A bundler.io plugin for fish
 With [fisherman]
 
 ```
-fisher attilagyorffy/bundler
+fisher add attilagyorffy/fish-bundler
 ```
 
 [travis-link]: https://travis-ci.org/attilagyorffy/bundler
