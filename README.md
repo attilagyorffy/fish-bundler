@@ -1,9 +1,6 @@
-# bundler
+# fish-bundler
 
-[![Build Status][travis-badge]][travis-link]
-[![Slack Room][slack-badge]][slack-link]
-
-A bundler.io plugin for fish
+A [bundler.io](https://bundler.io) plugin for fish so that you don't have to prefix everything with `bundle exec`.
 
 ## Install
 
