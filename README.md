@@ -1,6 +1,6 @@
 # fish-bundler
 
-A [bundler.io](https://bundler.io) plugin for fish so that you don't have to prefix everything with `bundle exec`.
+A [bundler](https://bundler.io) plugin for fish so that you don't have to prefix everything with `bundle exec`.
 
 ## Install
 
